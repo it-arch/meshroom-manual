@@ -5,7 +5,17 @@ https://sketchfab.com/blogs/community/tutorial-meshroom-for-beginners
 
 Goal
 ----
+A GOAL is a definition (in measurable terms) of Objects, Products, Things, Knowledge, Benefits and so on someone HAS at a certain point in time in the future.
+The following text defines NOT a Goal, but it describes a sequence of activities.
+The GOAL is e.e to HAVE a user having and beeing able to use certain knowledge concerning the program and its functions after completing the reading and understanding what you teach him about the program.
 
+And to make this difference between HAVE and DO is CRUCIAL for every professional Project Setup.
+It is the only way to reduce or (in the best case) deny all assumptions about the result of a certain process.
+And to tell a reader about the GOAL first, that means what he HAS after reading and understanding the following info is useful to her/him helps her/him to decide whether the content is useful to be able to make use of it to solve her/his actaul problems or not.
+This saves a lot of time. It is not necessary to read all info to find out.
+
+Overview
+--------
 In this tutorial, we will explain how to use Meshroom to automatically
 create 3D models from a set of photographs. After specifying system
 requirements and installation, we will begin with some advice on image
